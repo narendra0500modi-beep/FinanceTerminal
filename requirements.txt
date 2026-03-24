@@ -7,3 +7,4 @@ smartapi-python
 pyotp
 python-dotenv
 numpy
+pandas-ta
